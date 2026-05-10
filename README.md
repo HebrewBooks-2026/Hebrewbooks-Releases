@@ -31,7 +31,7 @@
 #### .NET Desktop Runtime
 מאפשר לתוכנה לרוץ כ-WPF .NET.
 👉 **[הורדה: windowsdesktop-runtime-10.0.7-win-x64.exe](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/windowsdesktop-runtime-10.0.7-win-x64.exe)**
-*(לאחר ההורדה, הרץ את הקובץ פעמיים-כפול והמתיני שהמתקין מסתיים — ~30 שניות.)*
+*(לאחר ההורדה, הרץ את הקובץ פעמיים-כפול והמתן שהמתקין מסתיים — ~30 שניות.)*
 
 #### WebView2 Fixed Version Runtime
 מאפשר לתוכנה להציג את ה-PDFים והטקסטים בתוך החלון.
