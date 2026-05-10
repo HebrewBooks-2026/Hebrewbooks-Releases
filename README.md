@@ -75,10 +75,10 @@
 
 ## 🐛 דיווח באג / יצירת קשר
 
-[פתחי Issue ב-GitHub](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/issues) או שלחי מייל ל-**HebrewBooks2026@gmail.com**.
+[פתחי Issue ב-GitHub](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/issues) או שלח מייל ל-**HebrewBooks2026@gmail.com**.
 
 ---
 
 ## 📜 רישוי
 
-תוכנה לשימוש אישי. ספרי המקור והאינדקסים משווקים בנפרד עם תנאי השימוש שלהם.
+תוכנה לשימוש אישי.
