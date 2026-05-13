@@ -31,12 +31,12 @@
 #### .NET Desktop Runtime
 מאפשר לתוכנה לרוץ כ-WPF .NET.
 👉 **[הורדה: windowsdesktop-runtime-10.0.7-win-x64.exe](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/windowsdesktop-runtime-10.0.7-win-x64.exe)**
-*(לאחר ההורדה, הריצי את הקובץ פעמיים-כפול והמתיני שהמתקין מסתיים — ~30 שניות.)*
+*(לאחר ההורדה, הרץ את הקובץ בלחיצה כפולה והמתן שהמתקין יסתיים — ~30 שניות.)*
 
 #### WebView2 Runtime
 מאפשר לתוכנה להציג את ה-PDFים והטקסטים בתוך החלון.
 👉 **[הורדה: MicrosoftEdgeWebView2RuntimeInstallerX64.exe](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/MicrosoftEdgeWebView2RuntimeInstallerX64.exe)**
-*(הריצי את הקובץ בלחיצה כפולה והמתיני שההתקנה תסתיים — ~30 שניות.)*
+*(הרץ את הקובץ בלחיצה כפולה והמתן שההתקנה תסתיים — ~30 שניות.)*
 
 ### שלב 2 — התקנת התוכנה
 👉 **[הורדה: HebrewBooks-stable-Setup.exe (גרסה אחרונה)](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/latest/download/HebrewBooks-stable-Setup.exe)**
@@ -47,7 +47,7 @@
 אם אין לך קטלוג קיים, אפשר להוריד את הקטלוג המלא:
 👉 **[הורדה: Katalog.db (קטלוג מלא)](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/Katalog.db)**
 
-מקם/י את הקובץ ב-`<DataRoot>\App\Katalog.db` (היכן ש-`<DataRoot>` היא התיקייה שבחרת בהפעלה הראשונה).
+מקם את הקובץ ב-`<DataRoot>\App\Katalog.db` (היכן ש-`<DataRoot>` היא התיקייה שבחרת בהפעלה הראשונה).
 
 ### גרסה ניידת (ללא התקנה)
 למי שמעדיף — קיים גם פורמט portable שלא דורש הרשאות מנהל:
@@ -58,7 +58,7 @@
 ## ✨ פיצ׳רים עיקריים
 
 - **חיפוש מהיר ומדויק** בתוכן 60,000+ ספרי PDF (מבוסס dtSearch) + ספרי טקסט מאוצריא
-- **תוכן עניינים אינטראקטיבי** לכל ספר — לחצי על סעיף, קופצים לעמוד
+- **תוכן עניינים אינטראקטיבי** לכל ספר — לחץ על סעיף, קופצים לעמוד
 - **סינון לפי מאגר** — HebrewBooks / אוצריא / שניהם
 - **עריכת מטא-דאטה** — שמות, מחברים, מקומות, נושאים
 - **הורדה אוטומטית של ספרים חדשים** מהאתר
@@ -75,7 +75,7 @@
 
 ## 🐛 דיווח באג / יצירת קשר
 
-[פתחי Issue ב-GitHub](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/issues) או שלחי מייל ל-**HebrewBooks2026@gmail.com**.
+[פתח Issue ב-GitHub](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/issues) או שלח מייל ל-**HebrewBooks2026@gmail.com**.
 
 ---
 
