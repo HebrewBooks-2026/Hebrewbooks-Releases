@@ -31,12 +31,12 @@
 #### .NET Desktop Runtime
 מאפשר לתוכנה לרוץ כ-WPF .NET.
 👉 **[הורדה: windowsdesktop-runtime-10.0.7-win-x64.exe](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/windowsdesktop-runtime-10.0.7-win-x64.exe)**
-*(לאחר ההורדה, הרץ את הקובץ פעמיים-כפול והמתן שהמתקין מסתיים — ~30 שניות.)*
+*(לאחר ההורדה, הריצי את הקובץ פעמיים-כפול והמתיני שהמתקין מסתיים — ~30 שניות.)*
 
-#### WebView2 Fixed Version Runtime
+#### WebView2 Runtime
 מאפשר לתוכנה להציג את ה-PDFים והטקסטים בתוך החלון.
-👉 **[הורדה: Microsoft.WebView2.FixedVersionRuntime.147.0.3912.98.x64.cab](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/Microsoft.WebView2.FixedVersionRuntime.147.0.3912.98.x64.cab)**
-*(אם וינדוס מציעה לפתוח את ה-CAB עם "File Explorer" — לחץ "פתיחה" וב-File Explorer לחץ כפול על הקובץ הראשי שבתוכו.)*
+👉 **[הורדה: MicrosoftEdgeWebView2RuntimeInstallerX64.exe](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/MicrosoftEdgeWebView2RuntimeInstallerX64.exe)**
+*(הריצי את הקובץ בלחיצה כפולה והמתיני שההתקנה תסתיים — ~30 שניות.)*
 
 ### שלב 2 — התקנת התוכנה
 👉 **[הורדה: HebrewBooks-stable-Setup.exe (גרסה אחרונה)](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/latest/download/HebrewBooks-stable-Setup.exe)**
@@ -58,7 +58,7 @@
 ## ✨ פיצ׳רים עיקריים
 
 - **חיפוש מהיר ומדויק** בתוכן 60,000+ ספרי PDF (מבוסס dtSearch) + ספרי טקסט מאוצריא
-- **תוכן עניינים אינטראקטיבי** לכל ספר — לחץ על סעיף, קופצים לעמוד
+- **תוכן עניינים אינטראקטיבי** לכל ספר — לחצי על סעיף, קופצים לעמוד
 - **סינון לפי מאגר** — HebrewBooks / אוצריא / שניהם
 - **עריכת מטא-דאטה** — שמות, מחברים, מקומות, נושאים
 - **הורדה אוטומטית של ספרים חדשים** מהאתר
@@ -75,10 +75,10 @@
 
 ## 🐛 דיווח באג / יצירת קשר
 
-[פתחי Issue ב-GitHub](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/issues) או שלח מייל ל-**HebrewBooks2026@gmail.com**.
+[פתחי Issue ב-GitHub](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/issues) או שלחי מייל ל-**HebrewBooks2026@gmail.com**.
 
 ---
 
 ## 📜 רישוי
 
-תוכנה לשימוש אישי.
+תוכנה לשימוש אישי. ספרי המקור והאינדקסים משווקים בנפרד עם תנאי השימוש שלהם.
