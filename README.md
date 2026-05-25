@@ -30,8 +30,8 @@
 
 #### .NET Desktop Runtime
 מאפשר לתוכנה לרוץ כ-WPF .NET.
-👉 **[הורדה: windowsdesktop-runtime-10.0.7-win-x64.exe](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/windowsdesktop-runtime-10.0.7-win-x64.exe)**
-*(לאחר ההורדה, הרץ את הקובץ בלחיצה כפולה והמתן שהמתקין יסתיים — ~30 שניות.)*
+👉 **[הורדה: windowsdesktop-runtime-8.0.27-win-x86.exe](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/windowsdesktop-runtime-8.0.27-win-x86.exe)**
+*(לאחר ההורדה, הרץ את הקובץ בלחיצה כפולה והמתן שהמתקין יסתיים — ~30 שניות. התוכנה מבוססת .NET 8 והיא 32-ביט (x86) — חובה להתקין דווקא את הגרסה הזו, לא x64 ולא גרסה 10.)*
 
 #### WebView2 Runtime
 מאפשר לתוכנה להציג את ה-PDFים והטקסטים בתוך החלון.
