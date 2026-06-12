@@ -62,6 +62,18 @@
 למי שמעדיף — קיים גם פורמט portable שלא דורש הרשאות מנהל:
 [HebrewBooks-stable-Portable.zip](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/latest/download/HebrewBooks-stable-Portable.zip)
 
+### התקנה לכל המשתמשים במחשב (מתקדם — דורש מנהל)
+ברירת המחדל היא התקנה **למשתמש הנוכחי בלבד** (עם עדכון אוטומטי). למי שרוצה להתקין פעם אחת **לכל המשתמשים** במחשב (דורש הרשאות מנהל) — יש סקריפט ייעודי:
+👉 **[הורדה: install-all-users.ps1](https://github.com/HebrewBooks-2026/Hebrewbooks-Releases/releases/download/prerequisites/install-all-users.ps1)**
+
+הרצה ב-PowerShell (הסקריפט יבקש הרשאות מנהל בעצמו):
+```powershell
+.\install-all-users.ps1                                      # התקנה ל-C:\Program Files\HebrewBooks
+.\install-all-users.ps1 -Offline                             # חבילה הכוללת .NET + WebView2 (ללא דרישות מקדימות)
+.\install-all-users.ps1 -InstallPath "D:\Apps\HebrewBooks"   # נתיב מוחלט אחר
+```
+הסקריפט מוריד את הגרסה הניידת האחרונה, פורס אותה למיקום המשותף, ויוצר קיצורים ב-Start menu ובשולחן העבודה לכל המשתמשים. **עדכון:** בהתקנה זו אין עדכון אוטומטי (היא מנוהלת ע"י מנהל) — כשיוצאת גרסה חדשה פשוט מריצים את הסקריפט שוב. ההגדרות והנתונים של כל משתמש נשמרים בנפרד (ב-`%AppData%`) ואינם מושפעים.
+
 ---
 
 ## ✨ פיצ׳רים עיקריים
